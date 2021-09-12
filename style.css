@@ -7,7 +7,9 @@
     --darkblue: hsl(223, 47%, 23%);
     --font: 'Red Hat Display', sans-serif;
 }
-
+.img{
+    width:100%;
+}
 body {
     font-family: var(--font);
     background-color: var(--paleblue);
