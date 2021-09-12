@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salahudheen007/order-summary)
-- Live Site URL: [Add live site URL here](https://salahudheen007.github.io/order-summary/)
+- Solution URL: [My solution  ](https://github.com/salahudheen007/order-summary)
+- Live Site URL: [ live site URL ](https://salahudheen007.github.io/order-summary/)
 
 ## My process
 
