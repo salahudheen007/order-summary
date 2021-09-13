@@ -32,9 +32,9 @@ img {
     padding: 2em;
 }
 
-h2 {
-    width: fit-content;
-    margin: auto;
+h1 {
+
+    text-align: center;
     font-weight: 900;
     color: var(--darkblue);
 }
